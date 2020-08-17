@@ -1,0 +1,2 @@
+# RMZScript
+ killme
